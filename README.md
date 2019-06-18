@@ -1,3 +1,6 @@
+Oh man, I hope you're not trying to use these scripts yet. Best of luck!
 
-Clone and install with `pip install -e`
+    pip install pixelhouse -U
+
+You'll need pyflow at least: Clone and install with `pip install -e`
 https://github.com/pathak22/pyflow
