@@ -1,7 +1,7 @@
 % Title: newnewyork demo
 % Author: Travis Hoppe
 
-!!(images/002653.jpg class="dark")
+!!(images/overlay_005800.jpg class="dark")
 
 ...bg-white
 ..aligncenter
